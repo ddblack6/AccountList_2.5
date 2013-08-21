@@ -30,8 +30,7 @@ Using the plugin
 
 	window.plugins.AccountList.get(
 	        {
-	            type: 'account type' // if not specified get all accounts
-	                                 // google account example: 'com.google'
+	            type: 'account type' // google account example: 'com.google'
 	        },
 	        function (result) {
 	        	

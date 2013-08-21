@@ -26,7 +26,6 @@ Adding the Plugin to your project
 
 Using the plugin
 ================
-//Javascript
 
 function AccountListFunction(){
 	window.plugins.AccountList.get(
@@ -51,5 +50,5 @@ function AccountListFunction(){
 	    );
 }
 
-//html
+
 <a href="#" onclick="AccountListFunction()">Account List</a>

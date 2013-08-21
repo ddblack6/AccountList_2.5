@@ -27,7 +27,7 @@ Adding the Plugin to your project
 Using the plugin
 ================
 
-function AccountListFunction(){
+
 	window.plugins.AccountList.get(
 	        {
 	            type: 'account type' // if not specified get all accounts
@@ -48,7 +48,7 @@ function AccountListFunction(){
 	            console.log(error);
 	        }
 	    );
-}
 
 
-<a href="#" onclick="AccountListFunction()">Account List</a>
+
+ // <a href="#" onclick="AccountListFunction()">Account List</a>

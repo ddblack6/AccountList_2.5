@@ -51,4 +51,3 @@ Using the plugin
 
 
 
- // <a href="#" onclick="AccountListFunction()">Account List</a>
